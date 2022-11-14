@@ -1,0 +1,148 @@
+.welcomes{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    flex-direction: column;
+    background-color: gray;
+    border-radius: 2rem;
+}
+
+.welcome{
+    color: goldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.motive{
+    margin-top: 0.3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: goldenrod;
+    text-underline-position: below;
+}
+
+.recentScores {
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 2;
+    margin-left: 80em;
+}
+
+.buttons {  
+    background-color: white; 
+    padding: 10px;
+    margin: 0;
+    font-size: 30px; 
+    transition: all ease 0.35s;
+    margin-left: 50px;
+    left: 50%; 
+    transform: translateX(-2.15%);
+    margin-top: 17em;
+}
+
+.quote-words{
+    display: flex;
+    width: 700px;
+    height:450px;
+    background-color: gray;
+    margin-top: 160px;
+    position: absolute;
+    cursor: pointer;
+    font-size: 22px;
+}
+
+.type-input{
+    display: flex;
+    width: 700px;
+    height: 450px;
+    background-color:goldenrod;
+    margin-top: 160px;
+    position: absolute;
+    margin-left: 725px;
+    cursor: text;  
+    font-size: 22px;
+}
+
+.timer {
+    left: 50%;
+    transform: translateX(42%);
+    margin-top: -0.01em;
+}
+
+
+.restart {
+    background-color: #72A0C1;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 0;
+    font-size: 30px;
+    cursor: pointer;
+    transition: all ease 0.35s;
+    border-radius: 1em;
+}
+
+.fifteen {
+    background-color: #72A0C1;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 0;
+    font-size: 30px;
+    cursor: pointer;
+    transition: all ease 0.35s;
+    border-radius: 1em;
+}
+
+.thirty {
+    background-color: #72A0C1;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 0;
+    font-size: 30px;
+    cursor: pointer;
+    transition: all ease 0.35s;
+    border-radius: 1em;
+}
+
+.sixty {
+    background-color:#72A0C1;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 0;
+    font-size: 30px;
+    cursor: pointer;
+    transition: all ease 0.35s;
+    border-radius: 1em;
+}
+
+.onetwenty {
+    background-color: #72A0C1;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 0;
+    font-size: 30px;
+    cursor: pointer;
+    transition: all ease 0.35s;
+    border-radius: 1em;
+}
+
+.fortyfive {
+    background-color: #72A0C1;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 0;
+    font-size: 30px;
+    cursor: pointer;
+    transition: all ease 0.35s;
+    border-radius: 1em;
+}
+
+.one {
+    background-color: #72A0C1;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 0;
+    font-size: 30px;
+    cursor: pointer;
+    transition: all ease 0.35s;
+    border-radius: 1em;
+}
